@@ -1,8 +1,4 @@
 
-
-####RKDTEAM#####
-
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"authorization":"Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IlpHWXlNREU0TXpFdFpXVXpNaTAwTURCbExXRTJOMlF0WmpJMFlqbGpZemszWXpkaSIsIndtb3BpZCI6MzIsImV4cCI6MTY5NzQ0MDU1NSwiaWF0IjoxNjk2ODM2NTU1fQ.mqvSZ_Wbr7oEM6RSBdmnsW9hWm5O-MWecYxyyIl6Dr4"}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
